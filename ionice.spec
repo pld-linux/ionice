@@ -5,7 +5,7 @@ Release:	0.20051002.1
 License:	GPL
 Group:		Applications
 Source0:	http://ck.kolivas.org/apps/%{name}.c
-# Source0-md5:	4342fadac30504c86c8db7beefe01995
+# Source0-md5:	2b72b6523e1cc90f1ba0c26af9edb9ac
 URL:		http://sammy.net/~sammy/hacks/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
