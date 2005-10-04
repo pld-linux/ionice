@@ -1,16 +1,20 @@
 Summary:	I/O priorites manager
+Summary(pl):	Zarz±dca priorytetów wej¶cia/wyj¶cia
 Name:		ionice
 Version:	0.1
 Release:	0.20051002.1
 License:	GPL
 Group:		Applications
 Source0:	http://ck.kolivas.org/apps/%{name}.c
-# Source0-md5:	2b72b6523e1cc90f1ba0c26af9edb9ac
+# NoSource0-md5:	2b72b6523e1cc90f1ba0c26af9edb9ac
 URL:		http://sammy.net/~sammy/hacks/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 I/O priorites manager.
+
+%description -l pl
+Zarz±dca priorytetów wej¶cia/wyj¶cia.
 
 %prep
 %setup -q -c -T
