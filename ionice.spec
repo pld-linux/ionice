@@ -1,5 +1,5 @@
 Summary:	I/O priorites manager
-Summary(pl):	Zarz±dca priorytetÛw wej∂cia/wyj∂cia
+Summary(pl.UTF-8):   ZarzƒÖdca priorytet√≥w wej≈õcia/wyj≈õcia
 Name:		ionice
 Version:	0.1
 Release:	0.20051002.1
@@ -13,8 +13,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 I/O priorites manager.
 
-%description -l pl
-Zarz±dca priorytetÛw wej∂cia/wyj∂cia.
+%description -l pl.UTF-8
+ZarzƒÖdca priorytet√≥w wej≈õcia/wyj≈õcia.
 
 %prep
 %setup -q -c -T
