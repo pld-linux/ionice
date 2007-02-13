@@ -1,5 +1,5 @@
 Summary:	I/O priorites manager
-Summary(pl.UTF-8):   Zarządca priorytetów wejścia/wyjścia
+Summary(pl.UTF-8):	Zarządca priorytetów wejścia/wyjścia
 Name:		ionice
 Version:	0.1
 Release:	0.20051002.1
